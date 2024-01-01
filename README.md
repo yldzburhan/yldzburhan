@@ -54,8 +54,8 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 <h3>⚙️ &nbsp;GitHub Analytics</h3>
 <p align="center">
 <a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mesutdmn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mesutdmn&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yldzburhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yldzburhan&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
@@ -68,4 +68,4 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 <h3 ><img src='https://github.com/images/mona-whisper.gif' width="50px"> </h3>
 
-![](https://komarev.com/ghpvc/?username=mesutdmn&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=yldzburhan&style=for-the-badge)
