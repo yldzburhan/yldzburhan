@@ -4,7 +4,7 @@
 
 I am a curious individual with a relentless passion for data science and MLOps. As a self-taught enthusiast in these fields, I've dedicated myself to continuous learning and hands-on projects to sharpen my skills.
 
-- 🚀 Actively seeking opportunities in data science and MLOps.
+- 🚀 Actively seeking opportunities in Data Science, NLP and MLOps.
 - 🎓 Self-taught in the dynamic realms of data science, with a focus on machine learning operations.
 - 🌱 Keen on exploring new technologies and methodologies to stay at the forefront of the ever-evolving data landscape.
 
@@ -12,16 +12,14 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 <img alt="Night Coding" src="https://media.tenor.com/POwXvlvY4P0AAAAd/we-bare-bears-grizzly-bear.gif" width="425px" align="right"/>
 
-
 <h3>🛠 &nbsp;Tech Stack</h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3)&nbsp;
 <br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat-square&logo=microsoft-sql-server)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=SQLite)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat-square&logo=mongodb)&nbsp;
 <br>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)&nbsp;
@@ -38,8 +36,7 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 ![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat-square&logo=Keras)&nbsp;
 ![Sklearn](https://img.shields.io/badge/-Sklearn-05122A?style=flat-square&logo=scikitlearn)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch)&nbsp;
-<br>
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&logoColor=white)&nbsp;
+![PySpark](https://img.shields.io/badge/-PySpark-05122A?style=flat-square&logo=apachespark)&nbsp;
 
 <h3>📈 &nbsp;Projects</h3>
 
