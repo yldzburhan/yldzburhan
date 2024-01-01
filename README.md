@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi there, I'm Mesut Duman</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi there, I'm Burhan Yıldız</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <picture><img src = "https://github.com/mesutdmn/mesutdmn/assets/72805471/7cc7d2e0-8dd0-4645-878b-3b3b0267afaa" width = 50px></picture> <b>About me</b>
 
@@ -46,7 +46,7 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 <h3>📚 &nbsp;Education</h3>
 
-- Computer Engineering at Karadeniz Technical University.
+- Mechanical Engineering at Istanbul Arel University.
 - Data Science & Machine Learning Bootcamp Participant at Miuul.
 
 
