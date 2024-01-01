@@ -12,6 +12,8 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 <img alt="Night Coding" src="https://media.tenor.com/POwXvlvY4P0AAAAd/we-bare-bears-grizzly-bear.gif" width="450px" align="right"/>
 
+
+
 <h3>🛠 &nbsp;Tech Stack</h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
