@@ -39,7 +39,7 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 ![Sklearn](https://img.shields.io/badge/-Sklearn-05122A?style=flat-square&logo=scikitlearn)&nbsp;
 ![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch)&nbsp;
 <br>
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat-square&logo=Linux&logoColor=white)&nbsp;
 
 <h3>📈 &nbsp;Projects</h3>
 
