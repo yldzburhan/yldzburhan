@@ -10,7 +10,7 @@ I am a curious individual with a relentless passion for data science and MLOps. 
 
 Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities! 🌟
 
-<img alt="Night Coding" src="https://media.tenor.com/POwXvlvY4P0AAAAd/we-bare-bears-grizzly-bear.gif" width="500px" align="right"/>
+<img alt="Night Coding" src="https://media.tenor.com/POwXvlvY4P0AAAAd/we-bare-bears-grizzly-bear.gif" width="450px" align="right"/>
 
 <h3>🛠 &nbsp;Tech Stack</h3>
 
