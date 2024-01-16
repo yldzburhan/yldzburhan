@@ -43,7 +43,7 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 <h3>📈 &nbsp;Projects</h3>
 
-- The Carbon Footprint Calculator project is a user-friendly web application designed to empower individuals to assess and understand their environmental impact. https://github.com/mesutdmn/Carbon-Footprint-Calculator-App
+- The Carbon Footprint Calculator project is a user-friendly web application designed to empower individuals to assess and understand their environmental impact. https://github.com/yldzburhan/CarbonFootPrintCalculator
 
 <h3>📚 &nbsp;Education</h3>
 
