@@ -44,14 +44,6 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 - Data Science & Machine Learning Bootcamp Participant at Miuul.
 
 
-<h3>⚙️ &nbsp;GitHub Analytics</h3>
-<p align="center">
-<a href="https://github.com/yldzburhan">
-  <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yldzburhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img width="400px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yldzburhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 <h3> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a target="_blank" href="https://www.linkedin.com/in/burhanyildiz/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="https://www.kaggle.com/yldzburhan"><img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"></img></a>
