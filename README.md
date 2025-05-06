@@ -2,13 +2,13 @@
 
 <picture><img src = "https://github.com/mesutdmn/mesutdmn/assets/72805471/7cc7d2e0-8dd0-4645-878b-3b3b0267afaa" width = 50px></picture> <b>About me</b>
 
-I am a curious individual with a relentless passion for data science and MLOps. As a self-taught enthusiast in these fields, I've dedicated myself to continuous learning and hands-on projects to sharpen my skills.
+I'm Burhan Yıldız, a passionate developer with a strong focus on data science, analytics, forecasting, and AI applications. I'm constantly striving to improve and stay updated with the latest innovations in this dynamic and ever-evolving field. By leveraging my analytical thinking and problem-solving skills, I enjoy creating effective solutions and innovative projects.
 
-- 🚀 Actively seeking opportunities in Data Science, NLP and MLOps.
-- 🎓 Self-taught in the dynamic realms of data science, with a focus on machine learning operations.
-- 🌱 Keen on exploring new technologies and methodologies to stay at the forefront of the ever-evolving data landscape.
+I love telling meaningful stories with data, making predictions about the future, and building intelligent applications.
 
-Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities! 🌟
+If you'd like to connect in this field or discuss potential collaborations, feel free to reach out to me on LinkedIn.
+
+I look forward to creating new opportunities and embarking on exciting projects together! Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities! ✨
 
 <img alt="Night Coding" src="https://media.tenor.com/POwXvlvY4P0AAAAd/we-bare-bears-grizzly-bear.gif" width="425px" align="right"/>
 
