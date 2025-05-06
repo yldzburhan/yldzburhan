@@ -36,12 +36,16 @@ Feel free to explore my repositories and don't hesitate to reach out for collabo
 
 <h3>📈 &nbsp;Projects</h3>
 
+- In this project we developed a fully automated system which generates questions and answers from various multimedia inputs—including PDF, DOCX, PPTX, EPUB, ENEX (evernote), TXT, MP3, MP4, MPEG4, PNG, JPG, JPEG, URLs, YouTube, Spotify, Wikipedia, and direct text input. Users can interact with the interface to answer questions and receive detailed performance feedback with suggestions for improvement. https://github.com/yldzburhan/Digi-Did-I-Get-It-MultiModel-LLM-Projects
+- For the Teknofest NLP competition, I developed a model with 85% accuracy using only 8MB of data by employing a transformer-encoder architecture with PyTorch to extract sentiment and brand names from Turkish customer reviews. Despite not using a pre-trained model, we ranked 18th out of 90 teams, competing against others who used pre-trained models. https://github.com/yldzburhan/NLP-Turkish-Brand-Entity-Sentiment-Recognizer
 - The Carbon Footprint Calculator project is a user-friendly web application designed to empower individuals to assess and understand their environmental impact. https://github.com/yldzburhan/CarbonFootPrintCalculator
 
-<h3>📚 &nbsp;Education</h3>
+<h3>📚 &nbsp;Important Certificates</h3>
 
-- Mechanical Engineering at Istanbul Arel University.
-- Data Science & Machine Learning Bootcamp Participant at Miuul.
+- [Data Science & Machine Learning Bootcamp](https://certificate.miuul.com/burhan_yildiz)
+- [Machine Learning A-Z : Python,DeepLearning,AI](https://www.udemy.com/certificate/UC-f1653f04-e60d-4cfd-9175-ee77e4e23c0c/)
+- [Master Math by Coding in Python](https://www.udemy.com/certificate/UC-22317a70-3b4b-496c-b603-5458053913ed/)
+- [Master PostgreSQL](https://www.udemy.com/certificate/UC-b38ae9d1-7841-4716-a319-0af574e7940f/)
 
 
 <h3> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
