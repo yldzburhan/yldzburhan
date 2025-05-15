@@ -42,7 +42,7 @@ I look forward to creating new opportunities and embarking on exciting projects 
 
 <h3>📚 &nbsp;Important Certificates</h3>
 
-- [Machine Learning Specilization - DeepLearning.AI](https://coursera.org/share/7d57f827344ec81dda6f04240068a3a4)
+- [Machine Learning Specialization - DeepLearning.AI](https://coursera.org/share/7d57f827344ec81dda6f04240068a3a4)
 - [Data Science & Machine Learning Bootcamp](https://certificate.miuul.com/burhan_yildiz)
 - [Machine Learning A-Z : Python,DeepLearning,AI](https://www.udemy.com/certificate/UC-f1653f04-e60d-4cfd-9175-ee77e4e23c0c/)
 - [Master Math by Coding in Python](https://www.udemy.com/certificate/UC-22317a70-3b4b-496c-b603-5458053913ed/)
