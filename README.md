@@ -10,7 +10,7 @@ If you'd like to connect in this field or discuss potential collaborations, feel
 
 I look forward to creating new opportunities and embarking on exciting projects together! Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities! ✨
 
-<img alt="Night Coding" src="https://media.tenor.com/POwXvlvY4P0AAAAd/we-bare-bears-grizzly-bear.gif" width="425px" align="right"/>
+<img alt="Night Coding" src="https://media.tenor.com/POwXvlvY4P0AAAAd/we-bare-bears-grizzly-bear.gif" width="350px" align="right"/>
 
 <h3>🛠 &nbsp;Tech Stack</h3>
 
@@ -39,6 +39,7 @@ I look forward to creating new opportunities and embarking on exciting projects 
 - In this project we developed a fully automated system which generates questions and answers from various multimedia inputs—including PDF, DOCX, PPTX, EPUB, ENEX (evernote), TXT, MP3, MP4, MPEG4, PNG, JPG, JPEG, URLs, YouTube, Spotify, Wikipedia, and direct text input. Users can interact with the interface to answer questions and receive detailed performance feedback with suggestions for improvement. https://github.com/yldzburhan/Digi-Did-I-Get-It-MultiModel-LLM-Projects
 - For the Teknofest NLP competition, I developed a model with 85% accuracy using only 8MB of data by employing a transformer-encoder architecture with PyTorch to extract sentiment and brand names from Turkish customer reviews. Despite not using a pre-trained model, we ranked 18th out of 90 teams, competing against others who used pre-trained models. https://github.com/yldzburhan/NLP-Turkish-Brand-Entity-Sentiment-Recognizer
 - The Carbon Footprint Calculator project is a user-friendly web application designed to empower individuals to assess and understand their environmental impact. https://github.com/yldzburhan/CarbonFootPrintCalculator
+- Developed an end-to-end machine learning project to predict customer churn for a bank. The process included comprehensive Exploratory Data Analysis (EDA), advanced feature engineering (TF-IDF, SVD for high-cardinality features), hyperparameter optimization with Optuna, and robust cross-validation. Various models like XGBoost, LightGBM, CatBoost, and a custom TensorFlow-based Neural Network were implemented within Scikit-learn pipelines, and the best performing model was deployed as an interactive Streamlit web application for real-time churn probability estimation. https://github.com/yldzburhan/bank-customer-churn-prediction-system
 
 <h3>📚 &nbsp;Important Certificates</h3>
 
