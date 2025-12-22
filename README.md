@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi there, I'm Burhan Yıldız</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<picture><img src = "https://github.com/mesutdmn/mesutdmn/assets/72805471/7cc7d2e0-8dd0-4645-878b-3b3b0267afaa" width = 50px></picture> <b>About me</b>
+<picture><img src = "https://github.com/mesutdmn/mesutdmn/assets/72805471/7cc7d2e0-8dd0-4645-878b-3b3b0267afaa" width = 50px></picture>
 
 I'm Burhan Yıldız, a passionate developer with a strong focus on data science, analytics, forecasting, and AI applications. I'm constantly striving to improve and stay updated with the latest innovations in this dynamic and ever-evolving field. By leveraging my analytical thinking and problem-solving skills, I enjoy creating effective solutions and innovative projects.
 
