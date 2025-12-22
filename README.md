@@ -15,24 +15,53 @@ I look forward to creating new opportunities and embarking on exciting projects 
 <h3>🛠 &nbsp;Tech Stack</h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
+![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=r)&nbsp;
 <br>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=PostgreSQL)&nbsp;
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat-square&logo=microsoft-sql-server)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=SQLite)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=sqlite)&nbsp;
+![ChromaDB](https://img.shields.io/badge/-ChromaDB-05122A?style=flat-square&logo=databricks)&nbsp;
 <br>
+
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat-square&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat-square&logo=github)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)&nbsp;
 ![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat-square&logo=mlflow)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat-square&logo=jupyter)&nbsp;
 <br>
+
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=amazonaws)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat-square&logo=microsoftazure)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat-square&logo=googlecloud)&nbsp;
+<br>
+
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=flask)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat-square&logo=streamlit)&nbsp;
 <br>
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=pandas)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat-square&logo=Tensorflow)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat-square&logo=Keras)&nbsp;
-![Sklearn](https://img.shields.io/badge/-Sklearn-05122A?style=flat-square&logo=scikitlearn)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=PyTorch)&nbsp;
+
+![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=pandas)&nbsp;
+![Polars](https://img.shields.io/badge/-Polars-05122A?style=flat-square&logo=polars)&nbsp;
+![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=numpy)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=tensorflow)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat-square&logo=keras)&nbsp;
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat-square&logo=scikitlearn)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=pytorch)&nbsp;
+![XGBoost](https://img.shields.io/badge/-XGBoost-05122A?style=flat-square&logo=xgboost)&nbsp;
+![LightGBM](https://img.shields.io/badge/-LightGBM-05122A?style=flat-square&logo=lightgbm)&nbsp;
+<br>
+
+![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat-square&logo=python)&nbsp;
+![spaCy](https://img.shields.io/badge/-spaCy-05122A?style=flat-square&logo=spacy)&nbsp;
+![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&logo=chainlink)&nbsp;
+![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat-square&logo=openai)&nbsp;
+![Weights_&_Biases](https://img.shields.io/badge/-Weights_&_Biases-05122A?style=flat-square&logo=weightsandbiases)&nbsp;
+<br>
+
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=tableau)&nbsp;
+![Power_BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=powerbi)&nbsp;
+
 
 <h3>📈 &nbsp;Projects</h3>
 
