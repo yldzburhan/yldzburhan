@@ -12,7 +12,7 @@ I look forward to creating new opportunities and embarking on exciting projects 
 
 <img alt="Night Coding" src="https://media.tenor.com/POwXvlvY4P0AAAAd/we-bare-bears-grizzly-bear.gif" width="350px" align="right"/>
 
-<h3>🛠 &nbsp;Tech Stack</h3>
+<h3> &nbsp;Tech Stack</h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=r)&nbsp;
@@ -43,7 +43,7 @@ I look forward to creating new opportunities and embarking on exciting projects 
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat-square&logo=microsoftazure)&nbsp;
 ![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat-square&logo=googlecloud)&nbsp;
 
-<h3>📈 &nbsp;Projects</h3>
+<h3>&nbsp;Projects</h3>
 
 - Designed and developed a fully automated system using LLMs to generate questions and answers from diverse input sources, including documents (PDF, DOCX), media (MP3, MP4), and online platforms (URLs, YouTube). Built an interactive web interface where users can test their knowledge with the generated questions and Receive a detailed performance report, showcasing end-to-end application development capability. https://github.com/yldzburhan/Digi-Did-I-Get-It-MultiModel-LLM-Projects
 - FinSightAI is a financial news intelligence platform that helps analysts deal with too much information by turning a lot of market news into structured, ready-to-use outputs. It collects articles from many different places in real time, removes duplicates, and stores them. Then, it uses GPT-4 to write executive summaries and market bulletins. The system also has a RAG-based Q&A assistant that uses a ChromaDB vector store to give answers with source citations and time/source filtering so you can find them again. Users can export professional reports to PDF and see basic system activity on the dashboard. They can also see live market indicators like FX and global metrics. The platform generally simplifies daily market monitoring and enhances the reliability and speed of research workflows. https://github.com/yldzburhan/FinSight-AI
