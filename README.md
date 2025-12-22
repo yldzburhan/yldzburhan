@@ -10,7 +10,7 @@ If you'd like to connect in this field or discuss potential collaborations, feel
 
 I look forward to creating new opportunities and embarking on exciting projects together! Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities! ✨
 
-<img alt="Night Coding" src="https://media.tenor.com/POwXvlvY4P0AAAAd/we-bare-bears-grizzly-bear.gif" width="350px" align="right"/>
+<img alt="Night Coding" src="https://media.tenor.com/POwXvlvY4P0AAAAd/we-bare-bears-grizzly-bear.gif" width="250px" align="right"/>
 
 <h3>🛠 &nbsp;Tech Stack</h3>
 
