@@ -37,8 +37,6 @@ I look forward to creating new opportunities and embarking on exciting projects 
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=django)&nbsp;
 ![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat-square&logo=flask)&nbsp;
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat-square&logo=streamlit)&nbsp;
-<br>
-
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&logo=chainlink)&nbsp;
 ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat-square&logo=openai)&nbsp;
 ![Weights_&_Biases](https://img.shields.io/badge/-Weights_&_Biases-05122A?style=flat-square&logo=weightsandbiases)&nbsp;
