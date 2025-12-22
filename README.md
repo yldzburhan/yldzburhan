@@ -27,11 +27,8 @@ I look forward to creating new opportunities and embarking on exciting projects 
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=docker)&nbsp;
 ![MLflow](https://img.shields.io/badge/-MLflow-05122A?style=flat-square&logo=mlflow)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat-square&logo=jupyter)&nbsp;
-<br>
-
-![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=amazonaws)&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat-square&logo=microsoftazure)&nbsp;
-![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat-square&logo=googlecloud)&nbsp;
+![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=tableau)&nbsp;
+![Power_BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=powerbi)&nbsp;
 <br>
 
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=django)&nbsp;
@@ -42,9 +39,9 @@ I look forward to creating new opportunities and embarking on exciting projects 
 ![Weights_&_Biases](https://img.shields.io/badge/-Weights_&_Biases-05122A?style=flat-square&logo=weightsandbiases)&nbsp;
 <br>
 
-![Tableau](https://img.shields.io/badge/-Tableau-05122A?style=flat-square&logo=tableau)&nbsp;
-![Power_BI](https://img.shields.io/badge/-Power%20BI-05122A?style=flat-square&logo=powerbi)&nbsp;
-
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat-square&logo=amazonaws)&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat-square&logo=microsoftazure)&nbsp;
+![GCP](https://img.shields.io/badge/-GCP-05122A?style=flat-square&logo=googlecloud)&nbsp;
 
 <h3>📈 &nbsp;Projects</h3>
 
