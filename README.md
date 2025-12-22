@@ -41,19 +41,6 @@ I look forward to creating new opportunities and embarking on exciting projects 
 ![Streamlit](https://img.shields.io/badge/-Streamlit-05122A?style=flat-square&logo=streamlit)&nbsp;
 <br>
 
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat-square&logo=pandas)&nbsp;
-![Polars](https://img.shields.io/badge/-Polars-05122A?style=flat-square&logo=polars)&nbsp;
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat-square&logo=numpy)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat-square&logo=tensorflow)&nbsp;
-![Keras](https://img.shields.io/badge/-Keras-05122A?style=flat-square&logo=keras)&nbsp;
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-05122A?style=flat-square&logo=scikitlearn)&nbsp;
-![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=flat-square&logo=pytorch)&nbsp;
-![XGBoost](https://img.shields.io/badge/-XGBoost-05122A?style=flat-square&logo=xgboost)&nbsp;
-![LightGBM](https://img.shields.io/badge/-LightGBM-05122A?style=flat-square&logo=lightgbm)&nbsp;
-<br>
-
-![NLTK](https://img.shields.io/badge/-NLTK-05122A?style=flat-square&logo=python)&nbsp;
-![spaCy](https://img.shields.io/badge/-spaCy-05122A?style=flat-square&logo=spacy)&nbsp;
 ![LangChain](https://img.shields.io/badge/-LangChain-05122A?style=flat-square&logo=chainlink)&nbsp;
 ![OpenAI](https://img.shields.io/badge/-OpenAI-05122A?style=flat-square&logo=openai)&nbsp;
 ![Weights_&_Biases](https://img.shields.io/badge/-Weights_&_Biases-05122A?style=flat-square&logo=weightsandbiases)&nbsp;
