@@ -2,13 +2,7 @@
 
 <picture><img src = "https://github.com/mesutdmn/mesutdmn/assets/72805471/7cc7d2e0-8dd0-4645-878b-3b3b0267afaa" width = 50px></picture>
 
-I'm Burhan Yıldız, a passionate developer with a strong focus on data science, analytics, forecasting, and AI applications. I'm constantly striving to improve and stay updated with the latest innovations in this dynamic and ever-evolving field. By leveraging my analytical thinking and problem-solving skills, I enjoy creating effective solutions and innovative projects.
-
-I love telling meaningful stories with data, making predictions about the future, and building intelligent applications.
-
-If you'd like to connect in this field or discuss potential collaborations, feel free to reach out to me on LinkedIn.
-
-I look forward to creating new opportunities and embarking on exciting projects together! Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities! ✨
+I am a data scientist and have experience with machine learning, generative AI, and agentic AI. I enjoy taking messy datasets from the real world and turning them into something useful, like clear insights, strong baselines, and models that can be shipped. Most of what I do is end-to-end, from preparing the data and creating new features to testing the model and making outputs ready for deployment. I also care about making things useful, like experiments that can be repeated, code that is easy to read, and results that are easy to explain to people who don't know much about technology. I've been looking into LLM-based workflows like summarization and retrieval-augmented approaches, especially when they can help speed up research and decision-making. Please feel free to contact me on LinkedIn if you want to connect or work together.
 
 <img alt="Night Coding" src="https://media.tenor.com/POwXvlvY4P0AAAAd/we-bare-bears-grizzly-bear.gif" width="350px" align="right"/>
 
