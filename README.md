@@ -10,14 +10,12 @@ If you'd like to connect in this field or discuss potential collaborations, feel
 
 I look forward to creating new opportunities and embarking on exciting projects together! Feel free to explore my repositories and don't hesitate to reach out for collaborations or opportunities! ✨
 
-<img alt="Night Coding" src="https://media.tenor.com/POwXvlvY4P0AAAAd/we-bare-bears-grizzly-bear.gif" width="250px" align="right"/>
+<img alt="Night Coding" src="https://media.tenor.com/POwXvlvY4P0AAAAd/we-bare-bears-grizzly-bear.gif" width="350px" align="right"/>
 
 <h3>🛠 &nbsp;Tech Stack</h3>
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=python)&nbsp;
 ![R](https://img.shields.io/badge/-R-05122A?style=flat-square&logo=r)&nbsp;
-<br>
-
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat-square&logo=postgresql)&nbsp;
 ![Microsoft SQL Server](https://img.shields.io/badge/-Microsoft_SQL_Server-05122A?style=flat-square&logo=microsoft-sql-server)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat-square&logo=sqlite)&nbsp;
